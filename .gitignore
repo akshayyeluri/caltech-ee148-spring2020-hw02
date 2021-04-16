@@ -1,0 +1,9 @@
+RedLights2011_Medium/
+*.swp
+.DS_Store
+*.png
+*.pdf
+*.tex
+.ipynb_checkpoints/
+__pycache__/
+
